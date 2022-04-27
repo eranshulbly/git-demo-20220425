@@ -1,4 +1,5 @@
 Adding another file
+Adding a line to file B
           __
      w  c(..)o   (
       \__(-)    __)
@@ -7,4 +8,5 @@ Adding another file
          w /|
           | \
 ejm97    m  m
+Adding a new line to file B
 Adding new line to B
