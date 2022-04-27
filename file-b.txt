@@ -7,6 +7,4 @@ Adding a line to file B
          /(_)___)
          w /|
           | \
-ejm97    m  m
-Adding a new line to file B
 Adding new line to B
