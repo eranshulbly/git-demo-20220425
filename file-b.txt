@@ -9,6 +9,4 @@ Adding a line to file B
           | \
 ejm97    m  m
 Adding a new line to file B
-kdfld
-
 Adding new line to B
