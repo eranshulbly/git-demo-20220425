@@ -8,3 +8,7 @@ Adding a line to file B
          w /|
           | \
 Adding new line to B
+
+asdasdadas
+asdasdadasda
+sd
